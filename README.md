@@ -19,5 +19,5 @@
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   
 </div><br/>
-
+:octocat:
 ### Descrição: Procurando minha primeira oportunidade na area de Front-end, super apaixonado por tecnologia, games.
